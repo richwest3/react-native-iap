@@ -61,10 +61,6 @@ android {
   flavorDimensions "store"
 
   productFlavors {
-    amazon {
-      dimension "store"
-    }
-
     play {
       dimension "store"
     }
